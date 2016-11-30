@@ -5,9 +5,13 @@ Hey! This is my repository to store my CSGO configuration when I change PC, rein
 ### How to use this .cfg
 
 To use this CFG, download it and move it to your Counter-Strike Global Offensive\csgo\cfg folder.
+
 Start your game.
+
 Open the console.
+
 Write `exec valpex.cfg`
+
 Enter & enjoy :)
 
 ### Launch Options
