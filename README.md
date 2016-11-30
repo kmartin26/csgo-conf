@@ -22,7 +22,7 @@ If you do not own a 144HZ monitor you must remove the _-refresh 144_ argument or
 
 ### Crosshair (in use)
 
-To use this crosshair just copy all and past it in your console.
+To use this crosshair just copy all and paste it in your console.
 
 cl_crosshair_drawoutline 1; 
 cl_crosshair_dynamic_maxdist_splitratio 0.35;
