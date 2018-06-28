@@ -16,7 +16,7 @@ Enter & enjoy :)
 
 ### Launch Options
 
--novid -refresh 144 -language english -tickrate 128
+-novid -refresh 144 -language english -tickrate 128 -high
 
 If you do not own a 144HZ monitor you must remove the _-refresh 144_ argument or modify it to the correct value to fit your monitor specs. 
 
