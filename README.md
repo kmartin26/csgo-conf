@@ -16,7 +16,7 @@ Enter & enjoy :)
 
 ### Launch Options
 
--refresh 144 -language english -tickrate 128 -high -nod3d9ex -noforcemparms -noforcemspd -noforcemaccel -nojoy -novid -console +autoexec
+-refresh 144 -tickrate 128 -high -nojoy -novid -panorama -console +autoexec
 
 If you do not own a 144HZ monitor you must remove the _-refresh 144_ argument or modify it to the correct value to fit your monitor specs. 
 
