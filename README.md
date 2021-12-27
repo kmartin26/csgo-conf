@@ -26,4 +26,6 @@ If you do not own a 144HZ monitor you must remove the _-refresh 144_ argument or
 
 To use my crosshair just copy/paste this in your console :
 
-`cl_crosshairalpha "200";cl_crosshaircolor "5";cl_crosshaircolor_b "50";cl_crosshaircolor_r "50";cl_crosshaircolor_g "250";cl_crosshairdot "0";cl_crosshairgap "-1";cl_crosshairsize "3";cl_crosshairstyle "2";cl_crosshairusealpha "1";cl_crosshairthickness "1";cl_fixedcrosshairgap "-1";cl_crosshair_outlinethickness "0";cl_crosshair_drawoutline "0";`
+```
+cl_crosshairalpha "200";cl_crosshaircolor "5";cl_crosshaircolor_b "50";cl_crosshaircolor_r "50";cl_crosshaircolor_g "250";cl_crosshairdot "0";cl_crosshairgap "-1";cl_crosshairsize "3";cl_crosshairstyle "2";cl_crosshairusealpha "1";cl_crosshairthickness "1";cl_fixedcrosshairgap "-1";cl_crosshair_outlinethickness "0";cl_crosshair_drawoutline "0";
+```
