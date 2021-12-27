@@ -16,32 +16,14 @@ Enter & enjoy :)
 
 ### Launch Options
 
--refresh 144 -tickrate 128 -high -nojoy -novid -panorama -console +autoexec
+-refresh 144 -tickrate 128 -high -nojoy -novid -console +autoexec
 
 If you do not own a 144HZ monitor you must remove the _-refresh 144_ argument or modify it to the correct value to fit your monitor specs. 
 
 ### Crosshair (in use)
 
-To use this crosshair just copy all and paste it in your console.
+[![jGXhI6.png](https://i.imgfly.me/jGXhI6.png)](https://imgfly.me/i/jGXhI6)
 
-cl_crosshair_drawoutline 1; 
-cl_crosshair_dynamic_maxdist_splitratio 0.35;
-cl_crosshair_dynamic_splitalpha_innermod 1;
-cl_crosshair_dynamic_splitalpha_outermod 0.5;
-cl_crosshair_dynamic_splitdist 7;
-cl_crosshair_outlinethickness 1
-cl_crosshair_sniper_show_normal_inaccuracy 0;
-cl_crosshair_sniper_width 1;
-cl_crosshairalpha 200;                                   
-cl_crosshaircolor 1;
-cl_crosshaircolor_b 50;                          
-cl_crosshaircolor_g 250;                           
-cl_crosshaircolor_r 50;
-cl_crosshairdot 1;
-cl_crosshairgap 1;
-cl_crosshairgap_useweaponvalue 0;
-cl_crosshairscale 0;
-cl_crosshairsize 3;
-cl_crosshairstyle 4;
-cl_crosshairthickness 0.5;
-cl_crosshairusealpha 1;                     
+To use my crosshair just copy/paste this in your console :
+
+`cl_crosshairalpha "200";cl_crosshaircolor "5";cl_crosshaircolor_b "50";cl_crosshaircolor_r "50";cl_crosshaircolor_g "250";cl_crosshairdot "0";cl_crosshairgap "-1";cl_crosshairsize "3";cl_crosshairstyle "2";cl_crosshairusealpha "1";cl_crosshairthickness "1";cl_fixedcrosshairgap "-1";cl_crosshair_outlinethickness "0";cl_crosshair_drawoutline "0";`
